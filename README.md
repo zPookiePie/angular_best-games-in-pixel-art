@@ -8,7 +8,7 @@
 </p>
 
 # 🎮 Melhores Jogos em Pixel Art
-UUm blog interativo sobre os melhores jogos em pixel art! Este projeto foi desenvolvido com Angular e inspirado no projeto ensinado durante o bootcamp Decola Tech 2025 da DIO. Foi também um dos desafios propostos durante o bootcamp. O blog destaca jogos incríveis com visual sofisticado, oferecendo uma experiência informativa e responsiva para os amantes de games em pixel. 🕹️✨
+Um blog interativo sobre os melhores jogos em pixel art! Este projeto foi desenvolvido com Angular e inspirado no projeto ensinado durante o bootcamp Decola Tech 2025 da DIO. Foi também um dos desafios propostos durante o bootcamp. O blog destaca jogos incríveis com visual sofisticado, oferecendo uma experiência informativa e responsiva para os amantes de games em pixel. 🕹️✨
 
 ## 📌 Principais Funcionalidades:
 - Lista de Jogos: Exibe uma coleção dos melhores jogos em pixel art com imagens, descrições e avaliações.
