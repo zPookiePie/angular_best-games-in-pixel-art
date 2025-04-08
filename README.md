@@ -1,19 +1,11 @@
-<div align="right">
-<button>
+<p align="right">
   <a href="README.md">
-
-  ![aa](https://img.icons8.com/?size=50&id=iHI2gDXCsMzH&format=png&color=000000)
-
+    <img src="https://img.icons8.com/?size=60&id=iHI2gDXCsMzH&format=png&color=000000" alt="Português" />
   </a>
-</button>
-<button>
   <a href="README.en.md">
-
-  ![aa](https://img.icons8.com/?size=50&id=yzSggttkqLf4&format=png&color=000000)
-
+    <img src="https://img.icons8.com/?size=60&id=yzSggttkqLf4&format=png&color=000000" alt="English" />
   </a>
-</button>
-</div>
+</p>
 
 # 🎮 Melhores Jogos em Pixel Art
 UUm blog interativo sobre os melhores jogos em pixel art! Este projeto foi desenvolvido com Angular e inspirado no projeto ensinado durante o bootcamp Decola Tech 2025 da DIO. Foi também um dos desafios propostos durante o bootcamp. O blog destaca jogos incríveis com visual sofisticado, oferecendo uma experiência informativa e responsiva para os amantes de games em pixel. 🕹️✨
