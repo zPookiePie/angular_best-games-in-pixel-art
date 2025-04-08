@@ -37,4 +37,4 @@ UUm blog interativo sobre os melhores jogos em pixel art! Este projeto foi desen
 ### Veja o código fonte do projeto original:
 - <a href="https://github.com/felipeAguiarCode/angular-blog">**`Repositório GitHub`**</a>
 #
-![bestGamesInPixelArt]()
+![BestGamesInPixelArt](https://github.com/user-attachments/assets/4eaf8e76-f48f-4b62-b172-1203ac07275b)
