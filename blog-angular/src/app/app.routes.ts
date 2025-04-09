@@ -6,7 +6,7 @@ export const routes: Routes = [
     { path: '', component: HomeComponent }, // Rota padrão
   { path: 'content/:id', component: ContentComponent,
     data: {
-      renderMode: 'no-preference'
+      renderMode: 'no-prerender'
     }
    } // Rota /content
 ];
