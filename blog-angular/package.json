@@ -8,7 +8,7 @@
     "build:ssr": "ng build && ng run blog-angular:server",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:blog-angular": "node dist/blog-angular/server/server.mjs"
+    "serve": "node dist/blog-angular/server/server.mjs"
   },
   "private": true,
   "dependencies": {
