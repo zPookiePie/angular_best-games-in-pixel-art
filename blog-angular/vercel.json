@@ -1,18 +1,11 @@
 {
-    "version": 2,
-    "builds": [
-      {
-        "src": "package.json",
-        "use": "@vercel/static-build",
-        "config": {
-          "distDir": "dist/blog-angular/browser"
-        }
-      }
-    ],
+    "version": 3,
+    "buildCommand": "npm run build:ssr",
+    "outputDirectory": "dist/blog-angular",
     "routes": [
       {
-        "src": "/(.*)",
-        "dest": "/index.html"
+        "src": "/.*",
+        "dest": "server/server.mjs"
       }
     ]
   }
