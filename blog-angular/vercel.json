@@ -1,11 +1,11 @@
 {
     "version": 3,
     "buildCommand": "npm run build:ssr",
-    "outputDirectory": "dist/blog-angular",
+    "outputDirectory": "dist/blog-angular/browser",
     "routes": [
       {
-        "src": "/.*",
-        "dest": "server/server.mjs"
+        "src": "/(.*)",
+        "dest": "dist/blog-angular/server/server.mjs"
       }
     ]
   }
