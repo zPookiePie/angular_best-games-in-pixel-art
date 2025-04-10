@@ -5,8 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:ssr": "ng build && ng run blog-angular:server",
-    "watch": "ng build --watch --configuration development",
+    "postinstall": "ng build --prod",
     "test": "ng test",
     "serve": "node dist/blog-angular/server/server.mjs"
   },
